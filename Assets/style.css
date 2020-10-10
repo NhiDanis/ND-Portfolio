@@ -48,3 +48,15 @@ label{
     margin-bottom: 10px;
 }
 
+#main-wrapper {
+    padding: 0 0 100px;
+    position: relative;
+}
+
+footer {
+    bottom: 0;
+    height: 70px;
+    left: 0;
+    position: absolute;
+    width: 100%;
+}
