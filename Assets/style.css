@@ -1,5 +1,10 @@
+body{
+    background-color: gray;
+    font-family: 'Times New Roman', Times, serif
+}
 .container{
     width: 100%;
+    background-color: whitesmoke;
     margin-left: auto;
     margin-right: auto;
     padding-left: 20px;
@@ -18,9 +23,28 @@ h1{
     border-bottom: 2px solid gray;
 }
 
-.img{
+.img-index{
     float: left;
     margin-top: 10px;
     margin-right: 20px;
     margin-left: 10px;
 }
+
+p{
+    font-size: 20px;
+
+}
+
+label{
+    margin-top: 10px;
+}
+
+.btn{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.social-media{
+    margin-bottom: 10px;
+}
+
