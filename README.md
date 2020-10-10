@@ -16,16 +16,13 @@ Using Bootstrap CSS Framework to create a mobile responsive portfolio.
 
 ## Screenshot reference: 
 * Small screen ( 400-index )
-
-![400-index ](https://user-images.githubusercontent.com/68761490/95645142-1bdd4400-0a71-11eb-91ca-1c3191f640d0.png)
+![Screen Shot 2020-10-10 at 1 49 33 PM](https://user-images.githubusercontent.com/68761490/95665357-55ab5a80-0b04-11eb-9d38-d38f506c532c.jpg)
 
 * Medium screen ( 768-index )
-
-![768-index](https://user-images.githubusercontent.com/68761490/95645149-2bf52380-0a71-11eb-9027-ba32c96216cb.png)
+![Screen Shot 2020-10-10 at 1 49 48 PM](https://user-images.githubusercontent.com/68761490/95665371-63f97680-0b04-11eb-91b6-a00ff5a99034.jpg)
 
 * Large screen ( 992-index )
-
-![992-index](https://user-images.githubusercontent.com/68761490/95645152-31526e00-0a71-11eb-980c-3377f16c49e8.png)
+![Screen Shot 2020-10-10 at 1 50 11 PM](https://user-images.githubusercontent.com/68761490/95665366-5d6aff00-0b04-11eb-80e6-c174aa455494.jpg)
 
 ## BuiltWith
 
@@ -40,7 +37,7 @@ Using Bootstrap CSS Framework to create a mobile responsive portfolio.
 
 
 ## Links:
-View a live version of the website:
+View a live version:
 [Github Page](https://nhidanis.github.io/Responsive-Portfolio/)
 
 
