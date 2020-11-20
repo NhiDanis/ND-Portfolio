@@ -35,7 +35,10 @@ body{
     padding-left: 20px;
     padding-right: 50px;
 }
-
+.resume-container{
+    margin-top: 40px;
+    
+}
 .navbar{
     font-size: 25px;
     color: whitesmoke;
@@ -45,8 +48,7 @@ body{
 .card{
     float: left;
     margin-top: 10px;
-    margin-right: 20px;
-    margin-left: 10px;
+    margin-left: 40px;
 }
 h2{
     padding-top: 20px;
