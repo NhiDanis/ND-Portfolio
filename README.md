@@ -16,14 +16,17 @@ Using Bootstrap CSS Framework to create a mobile responsive portfolio.
 
 ## Screenshot reference: 
 * Home Page
+
 ![Screen Shot 2020-11-21 at 9 38 54 AM](https://user-images.githubusercontent.com/68761490/99883720-221d1f00-2bde-11eb-85bf-f108ddeab757.jpg)
 ![Screen Shot 2020-11-21 at 9 40 25 AM](https://user-images.githubusercontent.com/68761490/99883723-247f7900-2bde-11eb-878b-fedfbe901b3a.jpg)
 
 * Portfolio Page
+
 ![Screen Shot 2020-11-21 at 9 39 26 AM](https://user-images.githubusercontent.com/68761490/99883725-26e1d300-2bde-11eb-814b-828ca1ccbb37.jpg)
 
 * Contact Page
-![Screen Shot 2020-11-21 at 9 39 31 AM](https://user-images.githubusercontent.com/68761490/99883727-29442d00-2bde-11eb-89c1-e44691e179cb.jpg)
+
+<img width="1792" alt="Screen Shot 2020-11-21 at 9 48 42 AM" src="https://user-images.githubusercontent.com/68761490/99883882-f51d3c00-2bde-11eb-9f09-be5f3a684b32.png">
 
 ## BuiltWith
 
