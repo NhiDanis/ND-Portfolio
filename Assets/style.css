@@ -53,6 +53,12 @@ body{
 h2{
     padding-top: 20px;
 }
+h1{
+    text-align: center;
+    border-bottom: solid 1px gray;
+    margin-top: 100px;
+    padding-top: 20px;
+}
 p{
     font-size: 20px;
 
@@ -68,8 +74,12 @@ label{
 }
 
 .social-media{
-    padding-top: 40px;
+    padding-top: 30px;
     word-spacing: 20px;
+}
+.information{
+    text-align: center;
+    padding-top: 30px;
 }
 
 #main-wrapper {
@@ -79,7 +89,7 @@ label{
 
 footer {
     bottom: 0;
-    height: 50px;
+    height: 70px;
     left: 0;
     position: absolute;
     width: 100%;
