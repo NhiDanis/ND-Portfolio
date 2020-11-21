@@ -15,14 +15,15 @@ Using Bootstrap CSS Framework to create a mobile responsive portfolio.
 * Responsive images
 
 ## Screenshot reference: 
-* Small screen ( 400-index )
-![Screen Shot 2020-10-10 at 1 49 33 PM](https://user-images.githubusercontent.com/68761490/95665357-55ab5a80-0b04-11eb-9d38-d38f506c532c.jpg)
+* Home Page
+![Screen Shot 2020-11-21 at 9 38 54 AM](https://user-images.githubusercontent.com/68761490/99883720-221d1f00-2bde-11eb-85bf-f108ddeab757.jpg)
+![Screen Shot 2020-11-21 at 9 40 25 AM](https://user-images.githubusercontent.com/68761490/99883723-247f7900-2bde-11eb-878b-fedfbe901b3a.jpg)
 
-* Medium screen ( 768-index )
-![Screen Shot 2020-10-10 at 1 49 48 PM](https://user-images.githubusercontent.com/68761490/95665371-63f97680-0b04-11eb-91b6-a00ff5a99034.jpg)
+* Portfolio Page
+![Screen Shot 2020-11-21 at 9 39 26 AM](https://user-images.githubusercontent.com/68761490/99883725-26e1d300-2bde-11eb-814b-828ca1ccbb37.jpg)
 
-* Large screen ( 992-index )
-![Screen Shot 2020-10-10 at 1 50 11 PM](https://user-images.githubusercontent.com/68761490/95665366-5d6aff00-0b04-11eb-80e6-c174aa455494.jpg)
+* Contact Page
+![Screen Shot 2020-11-21 at 9 39 31 AM](https://user-images.githubusercontent.com/68761490/99883727-29442d00-2bde-11eb-89c1-e44691e179cb.jpg)
 
 ## BuiltWith
 
@@ -38,7 +39,7 @@ Using Bootstrap CSS Framework to create a mobile responsive portfolio.
 
 ## Links:
 View a live version:
-[Github Page](https://nhidanis.github.io/Responsive-Portfolio/)
+[Github Page](https://nhidanis.github.io/ND-Portfolio/)
 
 
 
